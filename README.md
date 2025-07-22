@@ -1,5 +1,3 @@
- "tailwind-Css-Design_2": """
-const readme = `
 # Tailwind CSS UI Design
 
 A modern UI design built using Tailwind CSS demonstrating reusable components and responsive layouts.
